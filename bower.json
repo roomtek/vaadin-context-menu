@@ -27,7 +27,8 @@
     "iron-overlay-behavior": "^2.0.0",
     "iron-media-query": "^2.0.0",
     "vaadin-themable-mixin": "^1.1.0",
-    "vaadin-overlay": "^1.1.0"
+    "vaadin-overlay": "^1.1.0",
+    "vaadin-usage-statistics": "vaadin/vaadin-usage-statistics#master"
   },
   "devDependencies": {
     "iron-component-page": "^3.0.0",
